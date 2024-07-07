@@ -7,3 +7,6 @@ INSTRUCTIONS
 3. Input desired amount of words
 4. Input text to complete
 5. View output in output.txt
+
+Included Dataset:
+https://privacy.aol.com/legacy/privacy-policy.1.html
