@@ -1,4 +1,4 @@
-# Lnguage-Model
+# Language-Model
 A language model trained on part of AOL's privacy policy that completes your input.
 
 INSTRUCTIONS
