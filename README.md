@@ -1,5 +1,5 @@
 # Lnguage-Model
-A bi-gram language model trained on part of AOL's privacy policy that completes your input.
+A language model trained on part of AOL's privacy policy that completes your input.
 
 INSTRUCTIONS
 1. Add dataset to data.txt
